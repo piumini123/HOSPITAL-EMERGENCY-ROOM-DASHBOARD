@@ -3,6 +3,11 @@
 This project presents a **Power BI Dashboard** that visualizes and analyzes **emergency room (ER) data** from a hospital. The goal is to offer healthcare administrators and decision-makers key insights into emergency patient flow, department referrals, admission statuses, satisfaction scores, and peak operational hours.
 
 ## 📊 Dashboard Views
+![page1](https://github.com/user-attachments/assets/f9f2f8cf-b2ac-4033-a651-71e53a1aa6a4)
+
+![page2](https://github.com/user-attachments/assets/fdccd49a-6bc2-48c0-875f-adf1b638bbe8)
+
+![page 3](https://github.com/user-attachments/assets/d8868952-3d60-487a-a220-9a7f74b50f32)
 
 ### Conditional View (April 2023 – October 2024)
 - **Total Patients:** 9,216
