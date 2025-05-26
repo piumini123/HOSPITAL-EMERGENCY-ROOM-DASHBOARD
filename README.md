@@ -32,7 +32,7 @@ This project presents a **Power BI Dashboard** that visualizes and analyzes **em
 - <a href=https://github.com/piumini123/HOSPITAL-EMERGENCY-ROOM-DASHBOARD/blob/main/Hospital%20ER_Data.csv>`Hospital ER_Data.csv`</a> – Raw data file used to create the dashboard.
 - <a href=https://github.com/piumini123/HOSPITAL-EMERGENCY-ROOM-DASHBOARD/blob/main/page1.JPG>`page1.JPG`</a> – Screenshot of the **Monthly View**.
 - <a href=https://github.com/piumini123/HOSPITAL-EMERGENCY-ROOM-DASHBOARD/blob/main/page2.JPG>`page2.JPG`</a> – Screenshot of the **Conditional View**.
--<a href=https://github.com/piumini123/HOSPITAL-EMERGENCY-ROOM-DASHBOARD/blob/main/page%203.JPG>`page3.JPG`</a> – Screenshot of the **Patient Details**.
+- <a href=https://github.com/piumini123/HOSPITAL-EMERGENCY-ROOM-DASHBOARD/blob/main/page%203.JPG>`page3.JPG`</a> – Screenshot of the **Patient Details**.
 
 ## 📌 Tools Used
 - **Power BI** for  data preprocessing ,structuring ,data visualization and dashboard creation.
